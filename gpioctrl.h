@@ -9,6 +9,12 @@ using namespace std;
 * The GPIO pin number must be passed to the overloaded class constructor
 */
 
+/*
+DU ER GRIM OG LUGTER AF GAMMEL SNOT.
+
+PS. Jeg synes du er sød :i
+*/
+
 class GPIOClass
 {
 public:
